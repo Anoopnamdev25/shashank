@@ -1,0 +1,47 @@
+.test1{
+    background-color: aqua;
+    width: 500px;
+    height: 400px;
+    margin-top: 15%;
+    margin-left: 20%;
+    font-size: 25px;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.first{
+    border-radius: 15px;
+    border: 2px solid brown;
+    background-color: bisque;
+}
+#two{
+    border-radius: 10px;
+}
+
+.password{
+    font-size: 18px;
+    text-align: right;
+    padding-right: 15px;
+    
+}
+
+#imgall{
+    /* margin-left: 80px; */
+    position: absolute;
+    left: 55%;
+    margin-top: 10px;
+}
+
+.img1{
+    height: 20px;
+    margin-right: 25px;
+    
+    
+}
+.img2{
+    height: 20px;
+}

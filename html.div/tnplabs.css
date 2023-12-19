@@ -1,0 +1,45 @@
+.logo{
+    padding: 10px;
+    padding-left: 5%;
+}
+.text1{
+    font-size: 12ch;
+    font-weight: bold;
+color: rgb(63, 63, 220);
+padding-left: 5%;
+}
+ 
+.BOX{
+    padding-left: 13%;
+    padding-top: 10%;
+}
+input{
+
+    border-color: rgb(141, 142, 143);
+    background-color:rgb(28,27,27) ;
+    color: white;
+    width: 80%;
+}
+select{
+    border-color: rgb(141, 142, 143);
+    background-color: rgb(28,27,27);
+    color: white;
+    width: 80%;
+    
+}
+.d5{
+    font-size: 12ch;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.d6{
+    background-color: rgb(2, 44, 22);
+}
+.d7{
+    padding-left: 3%;
+    padding-top: 3%;
+    
+
+}
